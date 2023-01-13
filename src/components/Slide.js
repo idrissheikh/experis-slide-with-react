@@ -13,6 +13,9 @@ function Slide() {
                     <h1>Rådgivning, utvikling og forvaltning av løsninger som forenkler morgendagen</h1>
                     <p>Hos oss finner du mennesker som ikke bare har den tekniske kompetansen som skal til for å lykkes med et digitaliseringsprosjekt, 
                         men også de riktige personlige egenskapene.</p>
+                
+                        <button className='btn'>Les mer..</button>
+
                 </div>
 
             
